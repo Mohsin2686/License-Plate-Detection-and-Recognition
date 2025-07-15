@@ -46,6 +46,7 @@ python main.py
 ```
 
 output video will be stored in output_videos folder
+                                                                                            
+<video src="output_videos/output_video_license.avi" controls width="640"></video>
 
-<video src="https://github.com/Mohsin2686/License-Plate-Detection-and-Recognition/blob/main/output_videos/output_video_license.avi" controls width="640"></video>
-
+output_videos/output_video_license.avi
