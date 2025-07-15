@@ -1,6 +1,6 @@
 # License-Plate-Detection-and-Recognition
 
-This project combines YOLO (You Only Look Once) for cars and thlicense plate detection and PaddleOCR for optical character recognition to identify license plate numbers from images or video streams.
+This project combines YOLO (You Only Look Once) for cars detections and PaddleOCR for optical character recognition to identify license plate numbers from images or video streams.
 
 ### Setup the environment
 
