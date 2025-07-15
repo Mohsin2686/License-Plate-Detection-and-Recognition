@@ -1,0 +1,10 @@
+ultralytics
+paddleocr
+
+# For non GPU(CPU) users
+#pip install paddlepaddle --index-url https://pypi.org/simple
+
+
+#If you're using GPU with CUDA 11.7:
+#pip install paddlepaddle-gpu==2.5.2.post117 -f https://www.paddlepaddle.org.cn/whl/windows/mkl/avx/stable.html
+#For CUDA Version 11.2, change post117 to post112
