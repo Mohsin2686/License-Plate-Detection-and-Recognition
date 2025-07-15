@@ -1,1 +1,2 @@
 from .car_detection import CarDetection
+from .license_plate_detection import LicencePlateDetection
